@@ -12,7 +12,7 @@ Apis:- Google Map Apis, OpenWeatherMap API
 
 Package:- cupertino_icons, Bloc, geolocator, http, intl, google_maps_flutter, mocktail.
 
-Note:-Application also works fine in Portrait Mode.
+Note:-Application also works fine in Landscape Mode.
 
 
 ScreenShot:-                                   
